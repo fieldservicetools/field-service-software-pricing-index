@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Editorial Team"
+  given-names: "FieldServiceTools.com"
+title: "Field Service Software Pricing Index 2026"
+version: 1.0.0
+date-released: 2026-01-29
+url: "https://fieldservicetools.com/"
+repository-code: "https://github.com/fieldservicetools/field-service-software-pricing-index"
+license: CC-BY-4.0
